@@ -2,7 +2,7 @@
 A wrapper for www.whatdoestrumpthink.com written in just 1 file.
 
 ## License
-By using this API wrapper you are you agree to the[Terms of Service and Privacy Policy](https://whatdoestrumpthink.com/terms_of_service.html) of whatdoestrumpthink.com
+By using this API wrapper you are you agree to the [Terms of Service and Privacy Policy](https://whatdoestrumpthink.com/terms_of_service.html) of whatdoestrumpthink.com
 
 
 ## Creating the TrumpQuote Object
